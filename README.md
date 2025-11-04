@@ -1,4 +1,3 @@
-README.md สำหรับ drone-api
 # 🛰️ Drone API Server (Assignment #1)
 
 โปรเจกต์นี้เป็น **API Server** ที่พัฒนาด้วย **Node.js + Express** เพื่อให้บริการดึงข้อมูล **Configuration** และ **Logs** ของ Drone  
@@ -9,7 +8,7 @@ This project is an **API Server built with Node.js and Express** to manage drone
 ## 🚀 วิธีใช้งาน (How to Run)
 
 ### 1. โคลนโปรเจกต์ (Clone the repository)
-```bash
+
 git clone <YOUR_REPO_URL>
 
 2. ติดตั้ง dependencies (Install dependencies)
@@ -130,5 +129,6 @@ Frontend Connection	🟢 Success	ดึงผ่าน API สำเร็จ �
 รหัสนักศึกษา: 66010710
 Drone Name: Iron Wolf (Russia)
 ภาควิชา: ไอโอทีและฟิสิกส์อุตสาหกรรม
+
 
 
