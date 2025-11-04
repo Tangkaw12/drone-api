@@ -11,13 +11,13 @@ This project is an **API Server built with Node.js and Express** to manage drone
 ```bash
 git clone <YOUR_REPO_URL>
 
-2. ติดตั้ง dependencies (Install dependencies)
+### 2. ติดตั้ง dependencies (Install dependencies)
+```bash
 npm install
 
-3. สร้างไฟล์ .env เพื่อเก็บตัวแปรสำคัญ (Create .env file)
-
+### 3. สร้างไฟล์ .env เพื่อเก็บตัวแปรสำคัญ (Create .env file)
 สร้างไฟล์ชื่อ .env ที่ root directory และเพิ่มค่าตัวแปรดังนี้:
-
+```bash
 # === Server1: Drone Config Server (Google Apps Script) ===
 CONFIG_URL=https://script.google.com/macros/s/AKfycbzwclqJRodyVjzYyY-NTQDb9cWG6Hoc5vGAABVtr5-jPA_ET_2IasrAJK4aeo5XoONiaA/exec
 
@@ -129,6 +129,7 @@ Frontend Connection	🟢 Success	ดึงผ่าน API สำเร็จ �
 รหัสนักศึกษา: 66010710
 Drone Name: Iron Wolf (Russia)
 ภาควิชา: ไอโอทีและฟิสิกส์อุตสาหกรรม
+
 
 
 
