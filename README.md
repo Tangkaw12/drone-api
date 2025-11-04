@@ -8,7 +8,7 @@ This project is an **API Server built with Node.js and Express** to manage drone
 ## 🚀 วิธีใช้งาน (How to Run)
 
 ### 1. โคลนโปรเจกต์ (Clone the repository)
-
+```bash
 git clone <YOUR_REPO_URL>
 
 2. ติดตั้ง dependencies (Install dependencies)
